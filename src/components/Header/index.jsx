@@ -21,7 +21,7 @@ function Header() {
               <ul className="navbar-nav">
                 <li className="nav-item">
                   {isAuthenticated && (
-                    <Link className="nav-link" to="/welcome/in28minutes">
+                    <Link className="nav-link" to="/welcome/rishabh">
                       Home
                     </Link>
                   )}
